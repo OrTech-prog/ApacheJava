@@ -24,6 +24,7 @@ public class Cat {
         Cat myCat = new Cat();
 
         
+	
         System.out.println("Cat's name: " + myCat.name);
         System.out.println("Age: " + myCat.age);
     }
